@@ -1,0 +1,28 @@
+{
+  "name": "@skazska/base36-utils",
+  "version": "0.0.1",
+  "description": "Pure javascript base36 utils",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.9.2"
+  },
+  "scripts": {
+    "test": "./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skazska/base36-utils"
+  },
+  "keywords": [
+    "base36",
+    "utils"
+  ],
+  "author": "Said Karimov <skazska@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/skazska/base36-utils/issues"
+  },
+  "homepage": "https://github.com/skazska/base36-utils#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
